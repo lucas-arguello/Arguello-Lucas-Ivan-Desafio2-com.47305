@@ -1,0 +1,11 @@
+[
+	{
+		"id": 2,
+		"title": "Ropero",
+		"description": "muebles de madera de pino",
+		"price": 1500,
+		"thumbnail": "sin imagen",
+		"code": "def456",
+		"stock": 10
+	}
+]
